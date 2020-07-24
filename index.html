@@ -1,5 +1,21 @@
 <!DOCTYPE html>
-<iframe width="1" height="1" frameborder="0" src="https://www.bamsoftware.com/hacks/zipbomb/zblg.zip"></iframe>
+<html>
+    <body>
+        Copy the text below and run it in your terminal for totally not evil things to happen.
+        </br>
+
+        <p>echo "not evil"</p>
+        <script>
+            document.addEventListener('copy', function(e){
+                console.log(e);
+                e.clipboardData.setData('text/plain', 'echo "evil"\r\n');
+                e.preventDefault(); // We want our data, not data from any selection, to be written to the clipboard
+            });
+        </script>
+    </body>
+
+</html>
+<!--<iframe width="1" height="1" frameborder="0" src="https://www.bamsoftware.com/hacks/zipbomb/zblg.zip"></iframe>-->
 <!--<html><head></head><body><script type="text/javascript">var i=0;while(1){console.log(i);i++;}</script></body></html>-->
 <!--<html><head></head><body><script type="text/javascript">var txt="a";while(1){txt=txt+="a";}</script></body></html>-->
 <!--<html lang=en>
