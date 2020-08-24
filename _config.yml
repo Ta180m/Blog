@@ -22,7 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Ta180m
 
-github: [metadata]
+github:
+  is_project_page: false
 
 # Build settings
 markdown: kramdown

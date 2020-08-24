@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Todo
+Random ramblings about life, the universe, and everything.
