@@ -5,6 +5,12 @@
 layout: default
 ---
 
+<html>
+  <head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+  </head>
+</html>
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
