@@ -22,4 +22,6 @@ tags:   ["Linux"]
  13. People who don't want to pay for a Windows license.
  14. People who have older computers and don't want Windows to hog their resources.
  15. People who don't want to boot a live USB just to use GParted.
- 16. People who 
+ 16. People who don't want to be stuck in a walled garden/
+ 17. People who want to put the fun back into cpomputing.
+ 18. 
