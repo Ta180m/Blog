@@ -24,4 +24,4 @@ tags:   ["Linux"]
  15. People who don't want to boot a live USB just to use GParted.
  16. People who don't want to be stuck in a walled garden/
  17. People who want to put the fun back into cpomputing.
- 18. 
+ 18. People who
