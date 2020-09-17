@@ -14,7 +14,9 @@ tags: ["Programming"]
 > Your first game will be awful  
 > But your first code will be perfect.  
 > Zero bugs and very clean code.  
-> It will be "Hello, world!"* 
+> It will be "Hello, world!"*
+>
+> *-- Anonymous*
 
 For the past few years, "programming" and "C++" have been pratically synonymous for me. I knew about the wild world of other programming languages, but for the most part, I just stayed in my little C++ bubble. After all, for competitive programming, C++ is enough.
 

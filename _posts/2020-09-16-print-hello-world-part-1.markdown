@@ -6,7 +6,9 @@ author: Ta180m
 tags: ["Programming"]
 ---
 
-
+> *“C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.”*
+>
+> *-- Bjarne Stroustrup, creator of C++*
 
 There are a few reasons why the vast majority of competitive programmers use C++: it has a decent standard library, several good reference sources, and lots of tutorials online. But these factors are not unique to C++; what matters is its speed. A few milliseconds could be the difference between and accepted solution and time limit exceeded. Anyways, here's the code, about two weeks late, written in the "conventional" C++ style, as opposed to the condensed, macro-abusing style of competitive programmers.
 
