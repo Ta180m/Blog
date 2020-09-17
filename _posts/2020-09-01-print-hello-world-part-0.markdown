@@ -34,6 +34,6 @@ This is were the pseudocode below comes into play:
 
 It contains everything to give a quick, high-level overview of a programming language: a recursive function definiton, an `if else` statement, an array or list, a `for` loop, and two nested loops through the array or list. The entire program has time complexity `O(N^2 log N)` of course, and with `N = 1000`, this runs at around a second in a typical programming language, allowing us to make some rough performance comparisons. (Although you really shouldn't take these measurements too seriously, as I said above)
 
-I already have it implemented in about 10 different programming languages so far, so I'll try to post a new part about my experience with each language every day. I'm aiming for at least 20 language, but we'll see.
+I already have it implemented in about 10 different programming languages so far, so I'll try to post a new part about my experience with each language every day. I'm aiming for at least 20 language, but we'll see. It's all in the [GitHub](https://github.com/Ta180m/print-Hello-World-).
 
-Anyways, check back tomorrow for C++!
+Anyways, check back ~~tomorrow~~ in two weeks for C++!
