@@ -3,7 +3,7 @@ layout: post
 title:  "WSL 2 GNOME Desktop"
 date:   2020-08-25 13:44:48 -0500
 author: Ta180m
-tags:   ["WSL 2", "Linux"]
+tags:   ["Windows", "WSL", "Linux"]
 ---
 
 *Originally posted as a [gist](https://gist.github.com/Ta180m/e1471413f62e3ed94e72001d42e77e22)*
