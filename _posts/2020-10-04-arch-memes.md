@@ -22,6 +22,6 @@ tags: ["Linux"]
 
 ![Comic](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/comic.png)
 
-![Comic 2](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/comic2.png)
+![Comic 2](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/comic_2.png)
 
 ![Arch](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/arch.png)
