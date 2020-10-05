@@ -16,8 +16,6 @@ tags: ["Linux"]
 
 ![Fu](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/fu.png)
 
-![Comic](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/comic.png)
-
 ![Timesink](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/timesink.jpg)
 
 ![Comic](https://raw.githubusercontent.com/Ta180m/i-btw-use-arch/master/ext/comic.png)
