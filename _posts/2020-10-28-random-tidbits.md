@@ -9,7 +9,7 @@ tags: ["Random", "Linux"]
 
 ## Play videos in your terminal!
 
-![On YouTube](/assets/images/tux_video.png){: height="300px" } ![In a terminal](/assets/images/tux_text.png){: height="300px" }
+![On YouTube](/assets/tux-video.png){: height="300px" } ![In a terminal](/assets/tux-text.png){: height="300px" }
 
 Assuming you have mpv, just run `CACA_DRIVER=ncurses mpv -vo=caca *path_to_video*`.
 
