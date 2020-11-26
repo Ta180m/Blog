@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My attempt at a blog. Enjoy.
+Some random blog.
