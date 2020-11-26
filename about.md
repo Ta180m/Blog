@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Random ramblings about life, the universe, and everything.
+My attempt at a blog. Enjoy.
