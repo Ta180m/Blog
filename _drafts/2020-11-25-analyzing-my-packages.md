@@ -36,6 +36,7 @@ Recently, I ran `yay -Ps`, and I was horrified to discover that I have a total o
 
 ### CLI tools
  - `bpytop`
+ - `emacs`
  - `fish`
  - `fzf`
  - `htop`
@@ -216,7 +217,6 @@ Recently, I ran `yay -Ps`, and I was horrified to discover that I have a total o
 ### Everything else I couldn't categorize
  - `cool-retro-term`
  - `cryfs`
- - `emacs`
  - `flatpak`
  - `noto-fonts-emoji`
  - `obs-v4l2sink`
