@@ -116,6 +116,7 @@ Recently, I ran `yay -Ps`, and I was horrified to discover that I have a total o
  - `bison`
  - `fakeroot`
  - `flex`
+ - `groff`
  - `m4`
  - `make`
  - `patch`
@@ -217,7 +218,6 @@ Recently, I ran `yay -Ps`, and I was horrified to discover that I have a total o
  - `cryfs`
  - `emacs`
  - `flatpak`
- - `groff`
  - `noto-fonts-emoji`
  - `obs-v4l2sink`
  - `pulseaudio-bluetooth`
