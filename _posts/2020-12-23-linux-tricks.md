@@ -21,5 +21,10 @@ I've got some mixed feelings about VSCodium, the text editor that I use. It's no
 
 ## `ip` color
 
-`ip` is one of those commands that always spits out a heap of output, even when I just want something as simple as my IP address. Color is here to save the day. Try `ip address` versus `ip -c address` and see for yourself!
+`ip` is one of those commands that always spits out a heap of output, even when I just want something as simple as my IP address. OK, networking is hard, but still, no need to give me several pages of output. Color is here to save the day. Try `ip address` versus `ip -c address` and see for yourself!
+
+
+## Go home
+
+Easy. `cd`. That's it. No aliases needed; should work in basically any shell.
 
