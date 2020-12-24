@@ -19,5 +19,7 @@ I've got some mixed feelings about VSCodium, the text editor that I use. It's no
 ![GDB Tui](/assets/gdb-tui.png)
 
 
-Will add more later...
+## `ip` color
+
+`ip` is one of those commands that always spits out a heap of output, even when I just want something as simple as my IP address. Color is here to save the day. Try `ip address` versus `ip -c address` and see for yourself!
 
