@@ -35,3 +35,7 @@ Sparse files are pretty much black magic. Enough said. Basically, only used spac
 
 ![A 14TB file](/assets/sparse-file.png)
 
+Here's a 7 exibyte file, produced using [this technique](https://rwmj.wordpress.com/2020/11/04/ridiculously-big-files/). Now you can brag to four friends about your 7 exibyte hard drive!
+
+![A 7EiB file](/assets/ridiculously-big-file.png)
+
