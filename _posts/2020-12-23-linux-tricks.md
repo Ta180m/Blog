@@ -28,3 +28,10 @@ I've got some mixed feelings about VSCodium, the text editor that I use. It's no
 
 Easy. `cd`. That's it. No aliases needed; should work in basically any shell.
 
+
+## Sparse files
+
+Sparse files are pretty much black magic. Enough said. Basically, only used space is allocated, so a 14TB file containing all zeroes can be represented with no additional storage. You can have all the 14TB files that you ever want!
+
+![A 14TB file](/assets/sparse-file.png)
+
