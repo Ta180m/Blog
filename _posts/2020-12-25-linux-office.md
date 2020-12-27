@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The Linux Office?"
-date:   2020-12-25 15:08:32 -0600
 author: Ta180m
 tags: ["Linux", "Windows"]
 ---

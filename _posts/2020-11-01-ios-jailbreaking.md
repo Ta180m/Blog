@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "iOS Jailbreaking || Why the World is Just a Programming Task"
-date:   2020-11-01 11:19:50 -0600
 author: Ta180m
 tags: ["iOS", "Hacking", "Windows", "Linux", "Programming"]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Arch Memes"
-date:   2020-10-05 11:27:16 -0500
 author: Ta180m
 tags: ["Linux"]
 ---

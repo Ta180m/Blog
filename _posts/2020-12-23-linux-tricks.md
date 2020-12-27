@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Linux Tricks"
-date:   2020-12-23 17:37:08 -0600
 author: Ta180m
 tags: ["Random", "Linux"]
 ---

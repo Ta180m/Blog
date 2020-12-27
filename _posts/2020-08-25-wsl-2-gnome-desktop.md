@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "WSL 2 GNOME Desktop"
-date:   2020-08-25 13:44:48 -0500
 author: Ta180m
 tags:   ["Windows", "WSL", "Linux"]
 ---

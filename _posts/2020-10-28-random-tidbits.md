@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Random Tidbits"
-date:   2020-10-28 11:01:56 -0500
 author: Ta180m
 tags: ["Random", "Linux"]
 ---

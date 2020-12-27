@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Fun with QEMU/KVM!"
-date:   2020-11-18 22:24:00 -0600
 author: Ta180m
 tags: ["Linux", "macOS", "Virtualization"]
 ---

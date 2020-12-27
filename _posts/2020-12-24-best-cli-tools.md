@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Best CLI Tools"
-date:   2020-12-24 21:51:09 -0600
 author: Ta180m
 tags: ["Random", "Linux"]
 ---
@@ -33,7 +32,4 @@ No need to upload your images to sketchy websites who could steal your data in o
 Ever wanted to know your system's installation date, or even better, the full history of shutdowns and reboots? Well, `last` can help. Typically found in the `util-linux` package, it will faithfully log every boot and shutdown. According to `last` my system was "born" on Thursday September, 3rd 22:18:55 2020. Great to know, so I can celebrate its cake day next year!
 
 ![`last`](/assets/tldr-last.png)
-
-
-
 
