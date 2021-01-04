@@ -10,7 +10,7 @@ If you dual-boot, hibernation is a necessity. Need to use the other OS for a few
 
 However... It's 2021 and there still isn't an easy way to enable hibernation on Linux. Sad.
 
-Anyways, here's a rough outline of the procedure:
+Anyways, here's a rough outline of the procedure using a swap file:
 
 ## Make a swap file
 
@@ -48,9 +48,9 @@ If you have problems, make sure secure boot is disabled and check your BIOS sett
 
 Further reading:
 
- - https://forums.linuxmint.com/viewtopic.php?t=284100
+ - [Tutorial for swap files](https://forums.linuxmint.com/viewtopic.php?t=284100)
 
- - https://forums.linuxmint.com/viewtopic.php?f=42&t=273202
+ - [Tutorial for swap partitions](https://forums.linuxmint.com/viewtopic.php?f=42&t=273202)
  
- - https://wiki.archlinux.org/index.php/Power_management/Suspend_and_hibernate
+ - [From the ArchWiki](https://wiki.archlinux.org/index.php/Power_management/Suspend_and_hibernate)
  
