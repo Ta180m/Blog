@@ -47,9 +47,9 @@ If you have problems, make sure secure boot is disabled and check your BIOS sett
 
 
 Further reading:
-
+ 
  - [Tutorial for swap files](https://forums.linuxmint.com/viewtopic.php?t=284100)
-
+ 
  - [Tutorial for swap partitions](https://forums.linuxmint.com/viewtopic.php?f=42&t=273202)
  
  - [From the ArchWiki](https://wiki.archlinux.org/index.php/Power_management/Suspend_and_hibernate)
