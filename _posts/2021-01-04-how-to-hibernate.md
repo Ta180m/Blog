@@ -51,4 +51,6 @@ Further reading:
  - https://forums.linuxmint.com/viewtopic.php?t=284100
 
  - https://forums.linuxmint.com/viewtopic.php?f=42&t=273202
-
+ 
+ - https://wiki.archlinux.org/index.php/Power_management/Suspend_and_hibernate
+ 
