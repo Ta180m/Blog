@@ -58,7 +58,7 @@ Here are a few possible use cases:
 
  - Installing 32-bit libraries in a container to avoid polluting the host OS
 
- - Using proprietary Nvidia drivers in the container and rendering the host's desktop with free drivers
+ - Using proprietary NVIDIA drivers in the container and rendering the host's desktop with free drivers
 
  - One-time testing of apps to avoid installing them on the host
 
@@ -74,7 +74,7 @@ There's one final thing I need to clarify, and that's the title. By worst init s
 
 Whoa! That's a lot!
 
-Much of the hate that systemd receives stems from these blatant violations of the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy). systemd does not do one thing and do it well, unlike its predecessors. It does dozens of things, and arguably, it doesn't do them badly, but thought of systemd slowing expanding its grasp on your entire OS is unacceptable to some people.
+Much of the hate that systemd receives stems from these blatant violations of the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy). systemd does not do one thing and do it well, unlike its predecessors. It does dozens of things, and arguably, it doesn't do them badly, but thought of systemd slowing expanding its grasp on your entire OS is unacceptable to some people. But of course, this begs the question of whether it is really necessary to adhere so strictly to the Unix philosophy, since most big, standalone apps like GIMP and [LibreOffice](https://ta180m.github.io/2020/12/25/linux-office.html) obviously violate it.
 
 Still, systemd is everywhere these days, so it might be better to get used to it. Many of its tools are quite good, and `systemd-nspawn` in particular is exceptional. After watching the proliferation of systemd in the past few years, it's undeniable that it's here to stay.
 
