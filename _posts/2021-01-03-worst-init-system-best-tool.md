@@ -50,7 +50,7 @@ Here's SuperTuxKart in all its glory running in a container with full graphical 
 
 ![SuperTuxKart in a container](/assets/nspawn-supertuxkart.png)
 
-And that's it! Now you have a fast, simple way to test GUI graphically accelerated apps without messing with your host OS.
+And that's it! Now you have a fast, simple way to test GUI graphically accelerated apps without messing with your host OS. (I still haven't gotten sound to work yet, but it shouldn't be *that* hard...)
 
 Part of the simplicity of `systemd-nspawn` is that it is more of an extension of the age-old `chroot` instead of trying to virtualize too much like Docker. There's no need to worry about virtual network devices, virtual disks, volumes, or any of that stuff. Sure, that limits it in many ways, but it is still a very powerful OS virtualization method when the host and container are running the same OS. Previously, I had also experimented with [QEMU/KVM](https://ta180m.github.io/2020/11/18/fun-with-qemu-kvm.html) for this, but it seems overkill since the host and guest can share much the OS such as the kernel. Of course, full-blown virtual machines have their own horde of problems, such as terrible graphical acceleration unacceptable for testing SuperTuxKart.
 
@@ -80,11 +80,12 @@ Still, systemd is everywhere these days, so it might be better to get used to it
 
 
 ## Further Reading
-
-- https://wiki.archlinux.org/index.php/Systemd-nspawn
-
-- https://patrickskiba.com/sysytemd-nspawn/2019/02/08/introduction-to-systemd-nspawn.html
-
-- https://patrickskiba.com/sysytemd-nspawn/2019/03/21/graphical-applications-in-systemd-nspawn.html
-
-- https://wiki.archlinux.org/index.php/Systemd-nspawn
+ 
+ - [An introductory tutorial](https://patrickskiba.com/sysytemd-nspawn/2019/02/08/introduction-to-systemd-nspawn.html)
+ 
+ - [Tutorial for GUI apps](https://patrickskiba.com/sysytemd-nspawn/2019/03/21/graphical-applications-in-systemd-nspawn.html)
+ 
+ - [Another tutorial for GUI apps](https://liolok.github.io/Run-Desktop-Apps-with-systemd-nspawn-Container/)
+ 
+ - [From the ArchWiki](https://wiki.archlinux.org/index.php/Systemd-nspawn)
+ 
