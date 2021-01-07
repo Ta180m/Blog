@@ -8,7 +8,13 @@ tags: ["Windows"]
 
 If I had to name the single thing that I most hate about Windows, it would probably be Windows update. I have a long and complicated history with Windows update. Throw in [Windows Insider](https://insider.windows.com/), and you have the perfect recipe for disaster!
 
+
+## A close encounter
+
 So my experience with Windows update begins about two or three years ago, when I noticed the cute ninja cat of Windows Insider lounging at the bottom of the Updates panel in the Windows 10 settings app. (Check for yourself! It's a ninja cat.) Curious, I clicked on it, and I was piqued by the thought of "exploring new Windows features" and such. Well, they say curiousity killed the (ninja) cat, and my first Insider build that I installed wasn't exactly the most stable thing. Yeah, I got a GSOD (I completely freaked out) and hurriedly reverted back to a regular build. Anyways, I stayed away from Insider for a while.
+
+
+## The disaster really begins
 
 Eventually, stories about Insider's spectacular WSL 2 support drew me back, and soon, I was back on an Insider build. [19603](https://blogs.windows.com/windows-insider/2020/04/08/announcing-windows-10-insider-preview-build-19603/) to be exact. Ironically, WSL 2 was added to regular Windows not long after, but anyways, 19603 was surprisingly stable. No crashes. No GSODs. Maybe a few minor graphical glitches occasionally, but I was enjoying WSL 2.
 
@@ -23,6 +29,9 @@ I tried a lot of stuff. I tried searching up my problems online. No help. I trie
 But something was still bugging me. A few weeks ago, I recieved another email from Windows Insider telling me to update my build, since it was no longer going to be supported. If I didn't update by January 21 (or something like that) I wouldn't be able to boot up Windows!
 
 I was stuck. I didn't know what to do. Reinstall Windows? I didn't want to go through the trouble. After all, I never use Windows except for the occasional gaming. So, I tried my last resort: Windows update.
+
+
+## Windows update to the rescue!
 
 Yes, Windows update, the very same thing that had crippled my PC. Many of the online guides had recommended trying to update Windows to solve some of the problems that I was having. Since my build was expiring, I decided that it wouldn't hurt to try, other than wasting two hours of my time.
 
