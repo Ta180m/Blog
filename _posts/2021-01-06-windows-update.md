@@ -2,7 +2,7 @@
 layout: post
 title:  "How Windows Update Saved My Computer from... Windows Update"
 author: Ta180m
-tags: ["Windows"]
+tags: ["Windows", "WSL"]
 ---
 
 
