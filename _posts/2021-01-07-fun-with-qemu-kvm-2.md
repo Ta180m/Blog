@@ -10,7 +10,7 @@ tags: ["Linux", "Virtualization"]
 
 As far as I know, there aren't any 255 core processors on the market. Yet. But that doesn't stop us from making a virtual machine using [QEMU/KVM](https://ta180m.github.io/2020/11/18/fun-with-qemu-kvm.html) and [SMP](https://en.wikipedia.org/wiki/Symmetric_multiprocessing) with an absurd number of processors, as shown above.
 
-Why 255? Well, that's the limit apparently. Yeah, it sucks. I wish it was higher too. But if you're running more cores than the number of physical cores available on your computer, there's no benefit and you'll probably see worse performance. No one even has that many physical cores to begin with, so there's no incentive for QEMU/KVM to support even more cores. (virt-manager also warns you from against a VM more cores than you actually have. It's a bad idea.)
+Why 255? Well, that's the limit apparently. Yeah, it sucks. I wish it was higher too. But if you're running more cores than the number of physical cores available on your computer, there's no benefit and you'll probably see worse performance. No one even has that many physical cores to begin with, so there's no incentive for QEMU/KVM to support even more cores. I'm pretty sure that only the first 64 cores are KVM acclerated, which adds another reason why you shouldn't do this. (virt-manager also warns you from against a VM more cores than you actually have. It's a bad idea.)
 
 And why [Linux Mint 20.1](https://www.linuxmint.com/rel_ulyssa_cinnamon.php) MATE? Well, it happened to have been released lately, and I haven't had much exposure with MATE, so I thought it would be the perfect opportunity to download an ISO and take it for a spin with 255 cores.
 
