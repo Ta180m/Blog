@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "print(\"Hello, world!\") - Part 0"
-date:   2020-09-01 11:55:04 -0500
 author: Ta180m
 tags: ["Programming"]
 ---
