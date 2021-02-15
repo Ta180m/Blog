@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Who Should Use Linux"
-date:   2020-08-27 17:00:10 -0500
 author: Ta180m
 tags:   ["Linux"]
 ---
@@ -23,5 +22,5 @@ tags:   ["Linux"]
  14. People who have older computers and don't want Windows to hog their resources.
  15. People who don't want to boot a live USB just to use GParted.
  16. People who don't want to be stuck in a walled garden/
- 17. People who want to put the fun back into cpomputing.
+ 17. People who want to put the fun back into computing.
  18. People who
