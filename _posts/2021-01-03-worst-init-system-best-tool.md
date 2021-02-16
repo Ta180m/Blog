@@ -48,7 +48,7 @@ export DISPLAY=:0 # set the display
 
 Here's SuperTuxKart in all its glory running in a container with full graphical acceleration!
 
-![SuperTuxKart in a container](/assets/nspawn-supertuxkart.png)
+![SuperTuxKart in a container](/Blog/assets/nspawn-supertuxkart.png)
 
 And that's it! Now you have a fast, simple way to test GUI graphically accelerated apps without messing with your host OS. (I still haven't gotten sound to work yet, but it shouldn't be *that* hard...)
 

@@ -6,15 +6,15 @@ tags: ["Linux", "Windows"]
 ---
 
 
-![LibreOffice hate](/assets/libreoffice-hate.png)
+![LibreOffice hate](/Blog/assets/libreoffice-hate.png)
 
 OK, LibreOffice may not be the most loved application out there, but it's enough for most people. I use LibreOffice even on Windows! However, there is one thing about it that bothers me: the hideous icons! At first, I thought it might be caused be anti-aliasing or my screen scaling (currently set at 1.5x so everything's not tiny) but nope! The icons stayed hideous no matter what I did. Finally, after a bit of digging around in the settings, I found the root cause:
 
-![LibreOffice icon settings](/assets/libreoffice-settings.png)
+![LibreOffice icon settings](/Blog/assets/libreoffice-settings.png)
 
 Can you see it? The icon style was set to `Breeze`, which presumably uses bitmap icons, while I was in fact looking for the infinitely scalable `Breeze (SVG)` vector icons. Switching to vector icons did the trick, and now LibreOffice doesn't look hideous anymore! The question is, why is the default the ugly bitmap icons?
 
-![LibreOffice icons](/assets/libreoffice-icons.png)
+![LibreOffice icons](/Blog/assets/libreoffice-icons.png)
 
 People bash LibreOffice all the time for its imperfect compatibility of Office documents, but the important thing to remember is that *LibreOffice is not Microsoft Office!* If LibreOffice had focused less on being a Office clone and more on developing its own unique features, it would probably be in a much better shape right now. Millions of people are still using the basically-abandoned OpenOffice in 2020!
 
