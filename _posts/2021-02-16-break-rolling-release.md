@@ -45,11 +45,11 @@ Now for some Wayland...
 
 ![Plasma 5.21 Wayland](/Blog/assets/plasma-5.21-wayland.png)
 
-Of course. The screen scaling is all wacko.
+Of course. The screen scaling is all wacko when I try to scale apps up 1.5x. Native Wayland apps look perfectly fine, but everything else, including much of Plasma, still looks pretty bad. Apparently it's a result of [this bug](https://bugs.kde.org/show_bug.cgi?id=389191) and it looks like two years later, it still hasn't been resolved yet.
 
 ![Plasma crash](/Blog/assets/plasma-crash.png)
 
 And finally, we got a crash! Hooray! Just like last time I tried Wayland. Looks like the next update will be the one where Wayland is finally usable?
 
-The only disappointment that I have about Plasma 5.21 and this latest update is that nothing broke! Well, Wayland is still kind of broken, but I'm stuck on X11 for now. There were 1263.42 MiB of packages that could have broken in this update, *and* I enabled the testing repository, but they didn't! How could they? How dare they actually respect my time so I don't have to waste an hour fixing my rolling release! So tragic.
+The only disappointment that I have about Plasma 5.21 and this latest update is that nothing broke! Well, Wayland had some crashes, but it's always been kind of broken, so I'm stuck on X11 for now. There were 1263.42 MiB of packages that could have broken in this update, *and* I enabled the testing repository, but they didn't! How could they? How dare they actually respect my time so I don't have to waste an hour fixing my rolling release! So tragic.
 
