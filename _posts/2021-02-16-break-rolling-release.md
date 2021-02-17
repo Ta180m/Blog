@@ -27,7 +27,7 @@ A few minutes and a reboot later...
 
 OK, the boot looks good, no black screens or anything. Plasma (looks like the X11 session got renamed from Plasma to Plasma X11) on X started up extra fast... and we're in!
 
-![Plasma 5.21](/blog/assets/plasma-5.21,png)
+![Plasma 5.21](/blog/assets/plasma-5.21.png)
 
 Some first impressions: The new Breeze Twilight theme looks awesome! I love hybrid light-dark themes! The application launcher is also organized a lot better now.
 
