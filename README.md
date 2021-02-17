@@ -1,3 +1,3 @@
-# [Blog](https://ta180m.github.io/Blog/)
+# [Blog](https://ta180m.github.io/blog/)
 
 Some random blog.
