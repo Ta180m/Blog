@@ -41,6 +41,8 @@ Now for the new firewall configuration settings... looks like I need to install 
 
 The settings app has generally been cleaned up some more. There's a few other new settings, such as software updates, where I can now enable automatic updates to break my rolling release! How nice!
 
+The biggest disappointment is the new Application Launcher. While I think it is a bit better organized, it's also less keyboard-friendly. Previously, after doing a search, you could press the down key once to select the second option shown. Now, you need to press the down key *twice*, injecting extra keystrokes in an area where keystroke efficiency is key (no pun intended).
+
 Now for some Wayland...
 
 ![Plasma 5.21 Wayland](/blog/assets/plasma-5.21-wayland.png)
