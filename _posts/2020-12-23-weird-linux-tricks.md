@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux Tricks"
+title:  "Weird Linux Tricks"
 author: Ta180m
 tags: ["Random", "Linux"]
 ---
