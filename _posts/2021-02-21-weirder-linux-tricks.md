@@ -23,3 +23,8 @@ What? How can the VM be faster than the host? It's possible if the host is a [`s
 
 Pass the `mitigations=off` kernel parameter in your bootloader to disable all CPU exploit mitigations that protect you from the nasty [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) and [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) vulnerabilities. This is pretty much the pretty much the computing equivalent of anti-vaxxing, since widespread patching against these vulnerabilities have prevented them from showing up in attacks in the wild. However, the performance gains are really not worth the risk, so use this very wisely!
 
+
+## DoS yourself!
+
+Don't run `:(){:|:&};:`. Don't do it. If you want to take the risk, first limit the number of processes you can run with `ulimit`. You've been warned.
+
