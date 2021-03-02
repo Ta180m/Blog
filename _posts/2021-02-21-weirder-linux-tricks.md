@@ -28,3 +28,8 @@ Pass the `mitigations=off` kernel parameter in your bootloader to disable all CP
 
 Don't run `:(){:|:&};:`. Don't do it. If you want to take the risk, first limit the number of processes you can run with `ulimit`. You've been warned.
 
+
+## `sudo rm -rf /dev/cpu/0/`
+
+OK, not really, but you can do `echo 0 | sudo tee /sys/devices/system/cpu/cpu0/online` to disable CPU 0. Just don't try to take down all your processors at the same time.
+
