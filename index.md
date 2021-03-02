@@ -61,4 +61,5 @@ layout: default
 
   {%- endif -%}
 
+  <a href="feed.xml">Atom feed</a>
 </div>
