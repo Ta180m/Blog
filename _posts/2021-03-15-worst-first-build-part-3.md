@@ -52,7 +52,7 @@ With prices this high, who's actually buying the GPUs now? There has to be at le
 
 Well, it's probably people who are extremely price inelastic or people who know absolutely nothing about normal GPU prices. Or just extremely wealthy people.
 
-Even at the local [Micro Center](ategory/4294966937/video-cards), all they have now is some extremely overpriced Quandros and a few GTX 710s that are even slower than my laptop's current GPU. Doesn't look to good to be buying GPUs now. I *could* buy one since they aren't as overpriced as the ones on eBay, but that's a huge hassle I don't want to go through if I don't have to.
+Even at the local [Micro Center](ategory/4294966937/video-cards), all they have now is some extremely overpriced Quadros and a few GTX 710s that are even slower than my laptop's current GPU. Doesn't look to good to be buying GPUs now. I *could* buy one since they aren't as overpriced as the ones on eBay, but that's a huge hassle I don't want to go through if I don't have to.
 
 One last thing: Radeon 6700 XT launch on Thursday. It's way out of my price range, but perhaps it could be the beginning of better stock availability? Who knows. A Bitcoin or Ethereum crash could do the trick, too.
 
