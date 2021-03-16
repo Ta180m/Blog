@@ -40,7 +40,7 @@ Why is this happening? Well, it happens to be the perfect storm:
 
 1. **COVID-19**: Everyone's stuck inside, and what to do to pass the time? Game, of course! Everyone's building PCs, and the supply simply can't keep up, and prices are balooning into the stratosphere. But that's not it.
 
-2. **Cryptomining**: With Bitcoin and Ethereum smashing price records, cryptomining is back in full swing now. With one of the latest GPUs, you could be making *$5 a day!*. Mine for two months, and that'll be $300. You'll be willing to pay much higher for GPUs, pushing prices into the mesosphere. Yeah, Nvidia's messing with the BIOS of their latest RTX 3060, but will it help? Not much.
+2. **Cryptomining**: With Bitcoin and Ethereum smashing price records, cryptomining is back in full swing now. With one of the latest GPUs, you could be making *$5 a day!*. Mine for two months, and that'll be $300. You'll be willing to pay much higher for GPUs, pushing prices into the mesosphere. Yeah, Nvidia's messing with the BIOS of their latest RTX 3060, but will it help? [Not much](https://www.theverge.com/platform/amp/2021/3/16/22333544/nvidia-rtx-3060-ethereum-mining-rate-limit-unlock-driver).
 
 3. **Component shortages**: The demand right now is overwhelming, but what about supply? It doesn't look very rosy either. In fact, quite the opposite. Manufacturers are trying to churn out electronic devices as fast as they can, and GPU components like DDR memory is in very short supply. Prices are skyrocketing into the thermosphere now.
 
