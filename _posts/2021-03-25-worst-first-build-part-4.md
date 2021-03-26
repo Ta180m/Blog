@@ -2,7 +2,7 @@
 layout: post
 title:  "Worst First Build - How to Get a Free GPU During the World's Worst GPU Shortage Ever"
 author: Ta180m
-tags: ["PC Building", "Linux"]
+tags: ["PC Building"]
 ---
 
 
