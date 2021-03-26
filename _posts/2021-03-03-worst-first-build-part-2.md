@@ -2,7 +2,7 @@
 layout: post
 title:  "Worst First Build - The Sad Saga Continues"
 author: Ta180m
-tags: ["PC Building"]
+tags: ["Hardware"]
 ---
 
 
