@@ -19,7 +19,7 @@ You generally want your swap file to be at least as big as your RAM, and if you 
 ```sh
 # create a swap file
 sudo swapoff -a # disable all swap
-sudo dd if=/dev/zero of=/swapfile bs=1M count=8196 -status=progress # create a 8GiB swap file
+sudo dd if=/dev/zero of=/swapfile bs=1M count=8196 status=progress # create a 8GiB swap file
 sudo chmod 0600 /swapfile
 sudo mkswap /swapfile
 sudo swapon -a # enable swap
