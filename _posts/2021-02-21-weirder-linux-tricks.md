@@ -6,12 +6,12 @@ tags: ["Random", "Linux"]
 ---
 
 
-Here's some more weirder Linux tricks, if the [first post](https://ta180m.github.io/blog/2020/12/23/weird-linux-tricks.html) wasn't enough.
+Here's some more weirder Linux tricks, if the [first post](/blog/2020/12/23/weird-linux-tricks.html) wasn't enough.
 
 
 ## Faster than host guest
 
-What? How can the VM be faster than the host? It's possible if the host is a [`systemd-nspawn`](https://ta180m.github.io/blog/2021/01/03/worst-init-system-best-tool.html) container. Just pass through KVM acceleration with `--bind=/dev/kvm`, and you'll be shocked at how much faster the VM is compared to the `systemd-nspawn` container. Yes, for raw CPU virtualization, KVM really is that fast.
+What? How can the VM be faster than the host? It's possible if the host is a [`systemd-nspawn`](/blog/2021/01/03/worst-init-system-best-tool.html) container. Just pass through KVM acceleration with `--bind=/dev/kvm`, and you'll be shocked at how much faster the VM is compared to the `systemd-nspawn` container. Yes, for raw CPU virtualization, KVM really is that fast.
 
 
 ## Arch all the way down
