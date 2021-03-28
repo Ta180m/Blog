@@ -34,7 +34,7 @@ Next up was RAM, but prices kept trekking upwards! I finally pulled the trigger 
 
 The final ingredient was the GPU. For a few weeks, all that was between me finishing this build was a GPU so I could get a display output for configuring the BIOS and installing Arch Linux. I managed to snag the GPU for free (OK, maybe a dollar for the gas I used, but it was basically free) by asking on a Discord server if anyone was getting rid of really old graphics cards, and I got this great deal! 100% off MSRP! Still, this card is as powerful as you would expect from a free GPU, so I guess I'm not going to be doing any gaming any time soon. For server stuff, it works perfectly fine.
 
-As for the case and CPU cooler... who needs cases anyways? Cardboard box for the win! And stock coolers work perfectly fine. Plus, as an added bonus, the idle temp and the temp under load are the exact reverse of each other.
+As for the case and CPU cooler... who needs cases anyways? Cardboard box for the win! And stock coolers work perfectly fine. Sure, I can't boost past 4.5 GHz, so I'll probably have to get an aftermarket cooler eventually, but...
 
-Anyways, it's been a long journey. Hopefully GPU prices can plummet soon so I can replace my temporary graphics card with an actually decent one.
+Anyways, it's been a long journey. Hopefully GPU prices can plummet soon so I can replace my temporary graphics card with an actually decent one. And I still need a real case, an HDD, and a WiFi adapter... Oh well, I guess this build isn't finished quite yet!
 
