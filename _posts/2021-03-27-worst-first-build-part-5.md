@@ -2,7 +2,7 @@
 layout: post
 title:  "Worst First Build - Live on PCPartPicker!"
 author: Ta180m
-tags: ["Hardware", "Linux"]
+tags: ["Hardware"]
 ---
 
 
