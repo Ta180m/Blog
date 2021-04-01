@@ -8,7 +8,7 @@ tags: ["Hardware", "Linux"]
 
 Over the past week, I've been getting my new build set up. It's been quite satisfying: I'll run into more than my fair share of issues, but problem solving for the win!
 
-The OS installation went relatively smoothly. Partitioning disks was a bit tricky but I got it to work. I wanted to try out `systemd-networkd` and `systemd-boot` for my new server, and I had to spend some time researching documentation. One of them worked perfectly, the other one not so much, so I ended up sticking with the tried-and-true NetworkManager.
+The OS installation went relatively smoothly. Partitioning disks was a bit tricky but I got it to work. I wanted to try out `systemd-networkd` and `systemd-boot` for my new server, and I had to spend some time researching documentation. One of them worked perfectly, the other one not so much, so I ended up sticking with the tried-and-true NetworkManager. I also got SSH and VNC working as well, so I was off to great start.
 
 My first major headache was XMP. To but it simply, enabling XMP always caused me to fail to boot, so something was definitely wrong. I tried various voltages and frequencies, at the highest I could get it to go was 3533MHz, just 66MHz below my RAM's rated speed.
 
