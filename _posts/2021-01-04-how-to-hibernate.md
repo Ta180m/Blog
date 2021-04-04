@@ -42,6 +42,9 @@ sudo update-grub # for Debian-based distros
 sudo grub-mkconfig -o /boot/grub/grub.cfg # for Arch
 ```
 
+If you're using Arch, make sure you also [configure the initramfs](https://wiki.archlinux.org/index.php/Power_management/Suspend_and_hibernate#Configure_the_initramfs).
+
+
 And... that's it!
 
 If you have problems, make sure secure boot is disabled and check your BIOS settings. NVIDIA drivers are also problematic. If you're stuck, the internet can probably help.
