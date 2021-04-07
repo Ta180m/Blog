@@ -52,6 +52,12 @@ Maybe it's just Synapse's fault, but my Matrix homeserver devours RAM like a sta
 
 And don't get me started on `mx-puppet-discord`. It may have seemed like just a small thing to self-host, but it was by far the hardest to set up. *And* it even uses a noticable bit of CPU in the background as an added bonus.
 
+### DIY cloud gaming
+
+![SuperTuxKart, streamed from the "cloud"](/blog/assets/stk.png)
+
+As crazy as it sounds, this is actually nearly usable! The only thing preventing this from working perfectly are my [terrible GPU](/blog/2021/03/25/worst-first-build-part-4.html) and the limitations of VNC, since proprietary cloud gaming services use their own protocols optimized for low latency. Still, we'll see how this goes, since it's pretty promising!
+
 
 ## Nope
 
