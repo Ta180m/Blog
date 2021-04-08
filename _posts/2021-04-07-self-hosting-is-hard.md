@@ -21,7 +21,7 @@ VNC works perfectly. OK, fine, I haven't figured out clipboad sharing yet, but o
 
 ![Nextcloud](/blog/assets/nextcloud.png)
 
-Nextcloud is basically a huge hammer that tries to attack every nail. For most cases, a more specialized tool would be better, but Nextcloud can still give you a surprisingly functional solution to... file sharing, photo management, chat, email client, contacts, calendar, music streaming, notes, tasks, forms, maps, Matrix client, and RSS client. So yeah, Nextcloud knocks down quite a few bowling pins with one gigantically overpowered bowling, or perhaps more accurately, wrecking ball.
+Nextcloud is basically a huge hammer that tries to attack every nail. For most cases, a more specialized tool would be better, but Nextcloud can still give you a surprisingly functional solution to... file sharing, real-time collaborative document editing, photo management, chat, email client, contacts, calendar, music streaming, notes, tasks, forms, maps, Matrix client, and RSS client. So yeah, Nextcloud knocks down quite a few bowling pins with one gigantically overpowered bowling, or perhaps more accurately, wrecking ball.
 
 I anticipated a painful setup process for such a large monolith, but it went surprisingly smoothly. Perfect!
 
