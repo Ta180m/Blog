@@ -15,7 +15,7 @@ It's been over a week since I've completed my build and switched over many thing
 
 ![VNC](/blog/assets/vnc.png)
 
-VNC works perfectly. OK, fine, I haven't figured out clipboad sharing yet, but other than that, it's perfect. I also tried Xrdp but didn't have much luck. Oh well, VNC is better anyways!
+VNC works perfectly. OK, fine, I haven't figured out clipboad sharing yet, but other than that, it's perfect. I also tried Xrdp but didn't have much luck. There's also X2Go which bundles some extra perks like sound and clipboard sharing, but the image quality is blurry at times. Oh well, VNC is better anyways! 
 
 ### Nextcloud
 
@@ -56,7 +56,7 @@ And don't get me started on `mx-puppet-discord`. It may have seemed like just a 
 
 ![SuperTuxKart, streamed from the "cloud"](/blog/assets/stk.png)
 
-As crazy as it sounds, this is actually nearly usable! The only thing preventing this from working perfectly are my [terrible GPU](/blog/2021/03/25/worst-first-build-part-4.html) and the limitations of VNC, since proprietary cloud gaming services use their own protocols optimized for low latency. Still, we'll see how this goes, since it's pretty promising!
+As crazy as it sounds, this is actually nearly usable! The only thing preventing this from working perfectly are my [terrible GPU](/blog/2021/03/25/worst-first-build-part-4.html) and the limitations of VNC, since proprietary cloud gaming services use their own protocols optimized for low latency. I can get sound using X2Go, but it doesn't always work well. Plus X2Go's image quality is not the best. Still, we'll see how this goes, since it's pretty promising!
 
 
 ## Nope
