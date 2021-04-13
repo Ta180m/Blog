@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fixing Bugs Isn't Hard"
+title:  "Fixing Bugs Isn't Hard!"
 author: Ta180m
 tags: ["Linux"]
 ---
