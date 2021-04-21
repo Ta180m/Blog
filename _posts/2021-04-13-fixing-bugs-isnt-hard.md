@@ -2,7 +2,7 @@
 layout: post
 title:  "Fixing Bugs Isn't Hard!"
 author: Ta180m
-tags: ["Linux"]
+tags: ["Linux", "KDE"]
 ---
 
 
