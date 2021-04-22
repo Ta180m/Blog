@@ -2,7 +2,7 @@
 layout: post
 title:  "Why WMs Suck"
 author: Ta180m
-tags: ["Linux"]
+tags: ["Linux", "Rant"]
 ---
 
 
