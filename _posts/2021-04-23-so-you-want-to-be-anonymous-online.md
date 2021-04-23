@@ -95,6 +95,10 @@ These are simply Linux operating systems that have very good privacy settings, s
 
 Encryption is your friend! If you use it wisely, it's a key step on the road to anonymity.
 
+### Be careful with fingerprinting!
+
+You can use [this site](https://amiunique.org/) to check if your browser's fingerprint is unique. It's one way Tor and VPN users can be tracked, so be careful!
+
 ### Use your phone as little as possible
 
 Unless you have dumb phone, in which case you should be fine.
