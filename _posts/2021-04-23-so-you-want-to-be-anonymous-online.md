@@ -112,6 +112,10 @@ Unless you have dumb phone, in which case you should be fine.
 
 Pretty much no one should be doing any of these things, since they are very extreme, to say the least. Anyways, here we go!
 
+### Have a normal online life
+
+You're going to look awfully suspicious if you're doing these things (especially some of the things below). Having an alternative normal online life could be a good idea.
+
 ### Tor over VPN over Tor over VPN over Tor
 
 The basic idea is to nest these services several times, further confusing anyone trying to track you. This should be reasonably effective, although it's probably not enough against governments.
