@@ -112,15 +112,15 @@ Unless you have dumb phone, in which case you should be fine.
 
 Pretty much no one should be doing any of these things, since they are very extreme, to say the least. Anyways, here we go!
 
-# Tor over VPN over Tor over VPN over Tor
+### Tor over VPN over Tor over VPN over Tor
 
 The basic idea is to nest these services several times, further confusing anyone trying to track you. This should be reasonably effective, although it's probably not enough against governments.
 
-# Get a new computer every time you want to visit a web site and destroy it aferwards
+### Get a new computer every time you want to visit a web site and destroy it aferwards
 
 Not very environmentally friendly, but it works!
 
-# Lock all your electronics in a safe and never go online again
+### Lock all your electronics in a safe and never go online again
 
 This is it. The ultimate solution.
 
