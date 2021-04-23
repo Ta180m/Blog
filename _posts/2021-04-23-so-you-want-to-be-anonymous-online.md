@@ -131,7 +131,9 @@ This is it. The ultimate solution.
 
 ## Further reading
 
-- https://onlineprivacy101.info/
-- https://anonymousplanet.org/guide.pdf
-- https://gist.github.com/bluehat/354432b82650d0a722ed
+- [A basic privacy guide](https://onlineprivacy101.info/)
+
+- [A 186 page guide that won't even stop the government](https://anonymousplanet.org/guide.pdf)
+
+- [Some other good ideas](https://gist.github.com/bluehat/354432b82650d0a722ed)
 
