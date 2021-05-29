@@ -24,5 +24,5 @@ I wish I took some screenshots, but I don't want to boot into Windows again and 
 
 WSL is awesome, and I'm sure a lot of work must have been put into making it so integrated. But the raw crap that is Windows prevents the experience from being very enjoyable, whether it's random Windows processes using up 100% CPU all the time, or taking two hours to update, or the general "It just (doesn't) work™" feeling that seemed to bog down the whole experience.
 
-An interesting sidenote: [WSLg](https://devblogs.microsoft.com/commandline/wslg-architecture/), the graphics system for WSL, uses a VM of [CBL-Mariner](https://github.com/microsoft/CBL-Mariner), one of Microsoft's internal Linux distributions. With all the work being put into WSL, could that mean a consumer Linux distro from Microsoft is coming soon? We can only dream...
+An interesting sidenote: [WSLg](https://devblogs.microsoft.com/commandline/wslg-architecture/), the graphics system for WSL, uses a VM of [CBL-Mariner](https://github.com/microsoft/CBL-Mariner), one of Microsoft's internal Linux distributions. With all the work being put into WSL, could that mean a consumer Linux distro from Microsoft is coming soon, and free us all from the trash that is Windows? We can only dream...
 
