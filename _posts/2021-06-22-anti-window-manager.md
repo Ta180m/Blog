@@ -6,7 +6,7 @@ tags: ["Linux", "Rant"]
 ---
 
 
-[KDE bloat](/blog/2020/06/04/myth-bloat.html), [WMs rule](/blog/2020/12/26/why-wms-suck.html). Therefore, we must use get rid of the DE in KDE and we are left with... everyone's favorite WM, [KWin](https://userbase.kde.org/KWin)!
+[KDE bloat](/blog/2021/06/04/myth-bloat.html), [WMs rule](/blog/2020/12/26/why-wms-suck.html). Therefore, we must use get rid of the DE in KDE and we are left with... everyone's favorite WM, [KWin](https://userbase.kde.org/KWin)!
 
 There are only three easy steps. First, set up the environmental variables and start up D-Bus:
 
