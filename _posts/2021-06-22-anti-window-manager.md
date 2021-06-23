@@ -15,7 +15,7 @@ export $(dbus-launch)
 export QT_QPA_PLATFORM=wayland
 ```
 
-Now enjoy your unbloated WM with `kwin_wayland konsole`. Need [XWayland](/blog/2020/04/21/wayland-is-a-scam.html)? To add that extra bloat, just pass the `--xwayland` flag.
+Now enjoy your super unbloated standalone compositing Wayland window manager with `kwin_wayland konsole`. Need [XWayland](/blog/2020/04/21/wayland-is-a-scam.html)? To add that extra bloat, just pass the `--xwayland` flag.
 
 ![KWin standalone](/blog/assets/kwin-standalone.png)
 
