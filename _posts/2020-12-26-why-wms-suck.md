@@ -25,7 +25,7 @@ The most common criticism of desktop environments is that they are "bloated" and
 If you go on Reddit or do a DuckDuckGo search, you'll find plenty of examples of beautiful, heavy-customized WM setups. The emphasis on heavy-customized. It takes hours and hours of work to create something like that! Sure, you can download their dotfiles and set it up on your own computer, but it still doesn't feel quite the same as using a mature, well-rounded DE like KDE Plasma. Desktop environments are designed to make your life easier, even if it doesn't feel like it sometimes. WMs are really for people who have too much time on their hands and *need* that ultimate customizability. For everyone else, stick with your desktop environment.
 
 
-# What about using [i3 with Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
+## What about using [i3 with Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)?
 
 Meh. Kwin is pretty good and does dazzling compositing effects. Too bad it can't tile.
 
